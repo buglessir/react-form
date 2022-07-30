@@ -131,7 +131,7 @@ import Field from './Form/Components/Field';
 | name | Field name | Yes |
 | placeholder | Text for input's placeholder | No |
 | className | Custom CSS class name for input -> default: form__field | No |
-| errorClassName | Custom CSS class name for error message | No |
+| errorClassName | Custom CSS class name for error message -> default: form__error | No |
 | type | Input's type -> default: text | No |
 
 ### 6) Submit
